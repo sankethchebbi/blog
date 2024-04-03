@@ -3,7 +3,7 @@ title: "Sanketh's Blog"
 description: "Minimalist Jekyll theme for documentation site"
 baseurl: "/" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
-author: "John Doe"
+author: "Sanketh Chebbi"
 
 # Build settings
 kramdown:
