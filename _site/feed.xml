@@ -5,22 +5,80 @@
     <description>Minimalist Jekyll theme for documentation site</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Sep 2024 21:12:12 +0530</pubDate>
-    <lastBuildDate>Sat, 14 Sep 2024 21:12:12 +0530</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 22:09:04 +0530</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 22:09:04 +0530</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>hello world</title>
-        <description>&lt;p&gt;hey this is sanketh.
-before I write new content, I’ll be bringing back my blogs from blogspot here (no links please they’re all embarassing) and then I’m going to write something new every week, hopefully. recipe &amp;gt; ingredients.&lt;/p&gt;
+        <title>didnt do it. so here&apos;s the plan.</title>
+        <description>&lt;p&gt;im failing to do something consistently with the same energy. 
+this is not me so im trying to bring the old me back.
+vedu lamba and casey neistat have one thing in common - they both vlogged and recorded their life &lt;em&gt;every day&lt;/em&gt; for 700 days!!!&lt;/p&gt;
+
+&lt;p&gt;every day. day in and day out they put in the work. to put out one video every. single. day.&lt;/p&gt;
+
+&lt;p&gt;i need that. so im going to be blogging almost every day. math, physics, cs and quant fin.&lt;/p&gt;
+
+&lt;p&gt;plan:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;mlu explain&lt;/strong&gt; for all things ML visually explained.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;seeing theory by brown uni&lt;/strong&gt; for starting out w probability and statistics&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;stats in python&lt;/strong&gt; - &lt;a href=&quot;https://ethanweed.github.io/pythonbook/landingpage.html&quot;&gt;Python for Probability and Statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;and &lt;a href=&quot;https://prob-stat-python.github.io/textbook/&quot;&gt;Foundations of Probability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;trading with futures and options in detail with visualization&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;and more!&lt;/p&gt;
+
+&lt;p&gt;stay tuned.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 14 Sep 2024 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000//2024/09/14/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000//2024/09/14/hello/</guid>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000//2024/12/02/plan/</link>
+        <guid isPermaLink="true">http://localhost:4000//2024/12/02/plan/</guid>
         
-        <category>Demo</category>
+        <category>productivity</category>
         
-        <category>Jekyll</category>
+        <category>life</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>be a paradox.</title>
+        <description>&lt;p&gt;being a paradox in life is not just about juggling two seemingly opposing identities; it’s about embracing the complexity of who we are. think about it: a banker who writes poetry, a soldier with a passion for painting, or a scientist who plays jazz. these contradictions are not just quirks; they’re the essence of being human. why should you to maximize your life by embracing this duality:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. creativity boost&lt;/strong&gt;&lt;br /&gt;
+living in contradiction can supercharge your creativity. when you blend different worlds, like finance and poetry, you create unique perspectives that can lead to innovative ideas. studies show that people who embrace paradoxical thinking tend to be more creative and productive because they can see problems from multiple angles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. authenticity&lt;/strong&gt;&lt;br /&gt;
+being a paradox allows you to be your true self without the pressure to conform to societal expectations. it’s liberating! you don’t have to fit into one box; you can be a little bit of everything. this authenticity fosters deeper connections with others, as they see the real you, not just a curated version. &lt;strong&gt;&lt;em&gt;its not who you are but what you do that defines you&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. greater resilience&lt;/strong&gt;&lt;br /&gt;
+life is full of challenges, and those who accept paradoxes often handle stress better. when you recognize that it’s okay to feel both happy and sad at the same time, or to be ambitious yet content, you build emotional resilience. this mindset helps you navigate life’s ups and downs with grace.&lt;/p&gt;
+
+&lt;h3 id=&quot;how&quot;&gt;how?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1. explore your interests&lt;/strong&gt;&lt;br /&gt;
+don’t shy away from trying new things that seem unrelated to your main identity. the more diverse your experiences, the richer your life will be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. cultivate a paradox mindset&lt;/strong&gt;&lt;br /&gt;
+train yourself to think in contradictions. instead of viewing choices as either/or, practice seeing them as both/and. for example, you can be both disciplined in your career and free-spirited in your hobbies. this mindset opens up new avenues for growth and innovation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. embrace uncertainty&lt;/strong&gt;&lt;br /&gt;
+life is unpredictable, and that’s okay! accepting uncertainty allows you to adapt and pivot when necessary. don’t cling too tightly to plans; instead, leave room for spontaneity and new opportunities.&lt;/p&gt;
+
+&lt;h2 id=&quot;living-your-best-paradoxical-life&quot;&gt;living your best paradoxical life&lt;/h2&gt;
+
+&lt;p&gt;ultimately, living as a paradox means accepting that life isn’t black and white; it’s filled with shades of gray that make it vibrant and exciting. by embracing your contradictions—whether you’re a engineer-artist or farmer-doctor, you enrich not only your own life but also those around you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Jan 2022 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000//2022/01/28/paradox/</link>
+        <guid isPermaLink="true">http://localhost:4000//2022/01/28/paradox/</guid>
+        
+        <category>philosophy</category>
+        
+        <category>life</category>
         
         
       </item>
